@@ -10,15 +10,15 @@
 ## 📂 Descripcion del Repositorio  
 Este repositorio fue creado para el Integrador de la materia Programacion
 
-👁️ Tema
+## 👁️ Tema
 **Algoritmos de Busqueda y Ordenamiento** 
 
-📌 **Estructura del repositorio:**  
+## 📌 **Estructura del repositorio:**  
 
 - Se realiza un busqueda de un numero a eleccion en caso de ser lineal o binario
 - El archivo de código fuente (`.py`) incluyen comentarios y estructura adecuada.  
 - Se busca mantener un codigo limpio, ordenado y bien documentado.
 
-> ⚠️ **Nota:**
+## ⚠️ **Nota:**
 
 Se puede incluir notas
