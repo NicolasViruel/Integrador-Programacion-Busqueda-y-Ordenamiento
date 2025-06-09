@@ -21,4 +21,4 @@ Este repositorio fue creado para el Integrador de la materia Programacion
 
 ## ⚠️ **Nota:**
 
-Se puede incluir notas
+Link de video Youtube: https://www.youtube.com/watch?v=zLEM_6Psadg
